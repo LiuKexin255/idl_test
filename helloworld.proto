@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 
-option go_package = "bazel_test/proto/helloworld";
+option go_package = "idl_test/proto/helloworld";
 
 package helloworld;
 
